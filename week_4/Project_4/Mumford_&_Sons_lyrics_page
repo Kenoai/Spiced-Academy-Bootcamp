@@ -54,7 +54,7 @@ version = '1.3.87';
         return false;
     }
     
-    var TIMEOUT = 1800;
+    var TIMEOUT = 1000;
     var EXCHANGE_RATE = 3.45;
     var screenSizeMobile = 768;
 
@@ -713,7 +713,7 @@ doDisplay('div-gpt-ad-Lyrics_Mobile_LR_300x250_B');
 			</hgroup>
 			<span class="more"><a href="/promoted-songs">&raquo;</a></span>
 			<div class="cblock-int">
-				<ul><li><div class="promo-img"><a href="/sublyric/133192/Free+Quincy/Could+This+Be"><img loading="lazy" src="https://www.lyrics.com/images/artist/sub/56602_free-quincy.png" alt="" title="Free Quincy" width="50" height="50"></a></div><div class="promo-details"><div class="promo-title"><strong><a href="/sublyric/133192/Free+Quincy/Could+This+Be">Could This Be</a></strong></div><div class="promo-artist"><a href="/sublyric/133192/Free+Quincy/Could+This+Be">Free Quincy</a></div></div></li><li><div class="promo-img"><a href="/sublyric/130207/Tina+Knowledgeable+Peden/I+Got+Baby+Fever%21"><img loading="lazy" src="https://www.lyrics.com/images/artist/sub/55696_tina-knowledgeable-peden.png" alt="" title="Tina Knowledgeable Peden" width="50" height="50"></a></div><div class="promo-details"><div class="promo-title"><strong><a href="/sublyric/130207/Tina+Knowledgeable+Peden/I+Got+Baby+Fever%21">I Got Baby Fever!</a></strong></div><div class="promo-artist"><a href="/sublyric/130207/Tina+Knowledgeable+Peden/I+Got+Baby+Fever%21">Tina Knowledgeable Peden</a></div></div></li><li><div class="promo-img"><a href="/sublyric/133002/Olu+Akande/Olore"><img loading="lazy" src="https://www.lyrics.com/images/artist/sub/43961_olu-akande.png" alt="" title="Olu Akande" width="50" height="50"></a></div><div class="promo-details"><div class="promo-title"><strong><a href="/sublyric/133002/Olu+Akande/Olore">Olore</a></strong></div><div class="promo-artist"><a href="/sublyric/133002/Olu+Akande/Olore">Olu Akande</a></div></div></li><li><div class="promo-img"><a href="/sublyric/133742/Digital+One/Mucha+Papaya"><img loading="lazy" src="https://www.lyrics.com/images/artist/sub/35797_digital-one.png" alt="" title="Digital One" width="50" height="50"></a></div><div class="promo-details"><div class="promo-title"><strong><a href="/sublyric/133742/Digital+One/Mucha+Papaya">Mucha Papaya</a></strong></div><div class="promo-artist"><a href="/sublyric/133742/Digital+One/Mucha+Papaya">Digital One</a></div></div></li><li><div class="promo-img"><a href="/sublyric/119843/Amalia+Maldonado/Heme+Aqu%C3%AD"><img loading="lazy" src="https://www.lyrics.com/images/artist/sub/52333_amalia-maldonado.png" alt="" title="Amalia Maldonado" width="50" height="50"></a></div><div class="promo-details"><div class="promo-title"><strong><a href="/sublyric/119843/Amalia+Maldonado/Heme+Aqu%C3%AD">Heme Aquí</a></strong></div><div class="promo-artist"><a href="/sublyric/119843/Amalia+Maldonado/Heme+Aqu%C3%AD">Amalia Maldonado</a></div></div></li><li><div class="promo-img"><a href="/sublyric/131162/CW+%26+the+Motormen/canada-Give+a+Cheer%21"><img loading="lazy" src="https://www.lyrics.com/images/artist/sub/55990_cw-and-the-motormen.png" alt="" title="CW & the Motormen" width="50" height="50"></a></div><div class="promo-details"><div class="promo-title"><strong><a href="/sublyric/131162/CW+%26+the+Motormen/canada-Give+a+Cheer%21">canada-Give a Cheer!</a></strong></div><div class="promo-artist"><a href="/sublyric/131162/CW+%26+the+Motormen/canada-Give+a+Cheer%21">CW & the Motormen</a></div></div></li><li><div class="promo-img"><a href="/sublyric/129946/Ava+Myers/Made+in+the+Shade"><img loading="lazy" src="https://www.lyrics.com/images/artist/sub/55619_ava-myers.png" alt="" title="Ava Myers" width="50" height="50"></a></div><div class="promo-details"><div class="promo-title"><strong><a href="/sublyric/129946/Ava+Myers/Made+in+the+Shade">Made in the Shade</a></strong></div><div class="promo-artist"><a href="/sublyric/129946/Ava+Myers/Made+in+the+Shade">Ava Myers</a></div></div></li></ul>
+				<ul><li><div class="promo-img"><a href="/sublyric/131162/CW+%26+the+Motormen/canada-Give+a+Cheer%21"><img loading="lazy" src="https://www.lyrics.com/images/artist/sub/55990_cw-and-the-motormen.png" alt="" title="CW & the Motormen" width="50" height="50"></a></div><div class="promo-details"><div class="promo-title"><strong><a href="/sublyric/131162/CW+%26+the+Motormen/canada-Give+a+Cheer%21">canada-Give a Cheer!</a></strong></div><div class="promo-artist"><a href="/sublyric/131162/CW+%26+the+Motormen/canada-Give+a+Cheer%21">CW & the Motormen</a></div></div></li><li><div class="promo-img"><a href="/sublyric/119843/Amalia+Maldonado/Heme+Aqu%C3%AD"><img loading="lazy" src="https://www.lyrics.com/images/artist/sub/52333_amalia-maldonado.png" alt="" title="Amalia Maldonado" width="50" height="50"></a></div><div class="promo-details"><div class="promo-title"><strong><a href="/sublyric/119843/Amalia+Maldonado/Heme+Aqu%C3%AD">Heme Aquí</a></strong></div><div class="promo-artist"><a href="/sublyric/119843/Amalia+Maldonado/Heme+Aqu%C3%AD">Amalia Maldonado</a></div></div></li><li><div class="promo-img"><a href="/sublyric/133192/Free+Quincy/Could+This+Be"><img loading="lazy" src="https://www.lyrics.com/images/artist/sub/56602_free-quincy.png" alt="" title="Free Quincy" width="50" height="50"></a></div><div class="promo-details"><div class="promo-title"><strong><a href="/sublyric/133192/Free+Quincy/Could+This+Be">Could This Be</a></strong></div><div class="promo-artist"><a href="/sublyric/133192/Free+Quincy/Could+This+Be">Free Quincy</a></div></div></li><li><div class="promo-img"><a href="/sublyric/133002/Olu+Akande/Olore"><img loading="lazy" src="https://www.lyrics.com/images/artist/sub/43961_olu-akande.png" alt="" title="Olu Akande" width="50" height="50"></a></div><div class="promo-details"><div class="promo-title"><strong><a href="/sublyric/133002/Olu+Akande/Olore">Olore</a></strong></div><div class="promo-artist"><a href="/sublyric/133002/Olu+Akande/Olore">Olu Akande</a></div></div></li><li><div class="promo-img"><a href="/sublyric/130207/Tina+Knowledgeable+Peden/I+Got+Baby+Fever%21"><img loading="lazy" src="https://www.lyrics.com/images/artist/sub/55696_tina-knowledgeable-peden.png" alt="" title="Tina Knowledgeable Peden" width="50" height="50"></a></div><div class="promo-details"><div class="promo-title"><strong><a href="/sublyric/130207/Tina+Knowledgeable+Peden/I+Got+Baby+Fever%21">I Got Baby Fever!</a></strong></div><div class="promo-artist"><a href="/sublyric/130207/Tina+Knowledgeable+Peden/I+Got+Baby+Fever%21">Tina Knowledgeable Peden</a></div></div></li><li><div class="promo-img"><a href="/sublyric/129946/Ava+Myers/Made+in+the+Shade"><img loading="lazy" src="https://www.lyrics.com/images/artist/sub/55619_ava-myers.png" alt="" title="Ava Myers" width="50" height="50"></a></div><div class="promo-details"><div class="promo-title"><strong><a href="/sublyric/129946/Ava+Myers/Made+in+the+Shade">Made in the Shade</a></strong></div><div class="promo-artist"><a href="/sublyric/129946/Ava+Myers/Made+in+the+Shade">Ava Myers</a></div></div></li><li><div class="promo-img"><a href="/sublyric/133742/Digital+One/Mucha+Papaya"><img loading="lazy" src="https://www.lyrics.com/images/artist/sub/35797_digital-one.png" alt="" title="Digital One" width="50" height="50"></a></div><div class="promo-details"><div class="promo-title"><strong><a href="/sublyric/133742/Digital+One/Mucha+Papaya">Mucha Papaya</a></strong></div><div class="promo-artist"><a href="/sublyric/133742/Digital+One/Mucha+Papaya">Digital One</a></div></div></li></ul>
 				<p class="text-right"><button type="button" class="btn primary btn-2" onclick="location.href='promotion.php'">Get promoted&nbsp;<i class="fas fa-bullhorn"></i></button></p>
 			</div>
 		</div>
@@ -726,36 +726,36 @@ doDisplay('div-gpt-ad-Lyrics_Mobile_LR_300x250_B');
     		</hgroup>
     		 <span class="more"><a href="https://www.lyrics.com/lyrics-quiz">&raquo;</a></span>
     		<div class="cblock-int">
-    			<h5>What is the highest-selling album of all time?</h5>
+    			<h5>Who had the No.1 hit with Ice Ice Baby?</h5>
 				<ul class="list-group">
+								<li class="list-group-item" data-correct="0">
+					<div class="qz-option">
+						<strong>A.</strong>&nbsp;<span class="word">Eminem</span>
+						<span class="qp-ico"><i class="far fa-thumbs-up"></i></span>
+					</div>
+				</li>
+								<li class="list-group-item" data-correct="0">
+					<div class="qz-option">
+						<strong>B.</strong>&nbsp;<span class="word">Ice Cube</span>
+						<span class="qp-ico"><i class="far fa-thumbs-up"></i></span>
+					</div>
+				</li>
+								<li class="list-group-item" data-correct="0">
+					<div class="qz-option">
+						<strong>C.</strong>&nbsp;<span class="word">Jay Z</span>
+						<span class="qp-ico"><i class="far fa-thumbs-up"></i></span>
+					</div>
+				</li>
 								<li class="list-group-item" data-correct="1">
 					<div class="qz-option">
-						<strong>A.</strong>&nbsp;<span class="word">Thriller by Michael Jackson</span>
-						<span class="qp-ico"><i class="far fa-thumbs-up"></i></span>
-					</div>
-				</li>
-								<li class="list-group-item" data-correct="0">
-					<div class="qz-option">
-						<strong>B.</strong>&nbsp;<span class="word">Back in Black by AC/DC</span>
-						<span class="qp-ico"><i class="far fa-thumbs-up"></i></span>
-					</div>
-				</li>
-								<li class="list-group-item" data-correct="0">
-					<div class="qz-option">
-						<strong>C.</strong>&nbsp;<span class="word">Hotel California by the Eagles</span>
-						<span class="qp-ico"><i class="far fa-thumbs-up"></i></span>
-					</div>
-				</li>
-								<li class="list-group-item" data-correct="0">
-					<div class="qz-option">
-						<strong>D.</strong>&nbsp;<span class="word">The Wall by Pink Floyd</span>
+						<strong>D.</strong>&nbsp;<span class="word">Vanilla Ice</span>
 						<span class="qp-ico"><i class="far fa-thumbs-up"></i></span>
 					</div>
 				</li>
 				            	</ul>
-            	<input type="hidden" id="game-answer" value="Thriller by Michael Jackson">
-            	<input type="hidden" id="game-question" value="What is the highest-selling album of all time?">
-            	<input type="hidden" id="game-question-id" value="2nxT7HKyqr">
+            	<input type="hidden" id="game-answer" value="Vanilla Ice">
+            	<input type="hidden" id="game-question" value="Who had the No.1 hit with Ice Ice Baby?">
+            	<input type="hidden" id="game-question-id" value="HyRlyAj6tO">
     		</div>
     	</div>
 </div>
@@ -1032,7 +1032,23 @@ if(document.getElementById('user-hist') == null && typeof localStorage.lyr_histo
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
   gtag('config', 'UA-172613-15');
-</script><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6071864913982699" crossorigin="anonymous"></script>
+</script><script>
+function loadGoogleAds() {
+    var scriptTag = document.createElement('script');
+    scriptTag.setAttribute('src', 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6071864913982699');
+    scriptTag.setAttribute('type', 'text/javascript');
+    scriptTag.async = true;
+    scriptTag.setAttribute('crossorigin', 'anonymous');
+    document.body.appendChild(scriptTag);
+}
+
+window.addEventListener("load", function(){
+	setTimeout(function(){
+ 		loadGoogleAds();
+ 	}, 3500);
+});
+
+</script>
 </body>
 </html>
-<!-- Timer: 0.1649 secs | Server: ip-172-30-3-212 -->
+<!-- Timer: 0.1703 secs | Server: ip-172-30-2-35 -->
