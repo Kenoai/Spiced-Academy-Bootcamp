@@ -21,10 +21,10 @@ pg.execute('''CREATE TABLE IF NOT EXISTS tweets
     sentiment NUMERIC);''')
 
 for doc in docs:
-    print(doc)
+    #print(doc)
     text = doc['text']
     sentiment = s.polarity_scores(text)  # assuming your JSON docs have a text field
-    print(sentiment)
+    #print(sentiment)
     score = sentiment['compound']
     query = "INSERT INTO tweets VALUES (%s, %s);"
     pg.execute(query, (text, score))

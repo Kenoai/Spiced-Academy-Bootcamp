@@ -19,13 +19,14 @@ pg = create_engine('postgresql://em:Emiliepostgres01!@postgresdb:5432/twitter', 
 
 webhook_url = "https://hooks.slack.com/services/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"
 
-result_set = pg.execute("SELECT text FROM tweets")  
+result_set = pg.execute("SELECT text FROM tweets LIMIT 1")  
 
 for r in result_set:  
+    r._asdict()
     print(r)
-    print(type(r))
+    #print(type(r))
     print()
-    data = {'text': r}
+    data = {'text': r['text']}
     print(data)
-    print(type(data))
-    #requests.post(url=webhook_url, json = data)
+    #print(type(data))
+    requests.post(url=webhook_url, json = data)
