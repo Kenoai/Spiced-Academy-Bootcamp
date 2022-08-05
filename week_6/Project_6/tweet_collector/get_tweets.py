@@ -66,7 +66,10 @@ for tweet in cursor:
     tweet_data = {}
     #logging.critical("DATA " + str(tweet.data))
     logging.critical("INCLUDES:")
-    url = tweet.includes['media'][0].url
+    if tweet.includes:
+        url = tweet.includes['media'][0].url
+    else:
+        pass
     #logging.critical(url)
     #tweet = dict(tweet)
     tweet_data['created_at'] = tweet.data[0]['created_at']

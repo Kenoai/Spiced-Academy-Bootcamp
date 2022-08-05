@@ -1,12 +1,11 @@
 import requests
 import pymongo
-#import time
 from sqlalchemy import create_engine
 import psycopg2
 import time
 import logging
 
-#time.sleep(10)  # seconds
+time.sleep(10)  # seconds
 # Establish a connection to the MongoDB server
 
 print('connected!')
@@ -26,7 +25,11 @@ for r in result_set:
         {
             "type": "section","text": {"type": "mrkdwn","text": r['text']},
             "accessory": {"type": "image","image_url": r['image'], "alt_text": "image"}
-            }]}
+            },
+        {
+            "type": "section","text": {"type": "mrkdwn","text": ("Sentiment: " + str(r['sentiment']))}
+            }
+            ]}
 
     #print(data)
 
